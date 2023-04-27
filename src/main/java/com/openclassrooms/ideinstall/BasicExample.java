@@ -7,5 +7,6 @@ public class BasicExample {
 		for(i=0; i<3; i++) {
 			System.out.println("Hello bugs !");
 		}
+		// Test Commit in Github and over
 	}
 }
